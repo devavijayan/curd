@@ -1,0 +1,25 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "Deva",
+      "email": "devavijayan47@gmail.com",
+      "phone": "7892491567",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Jeeva",
+      "email": "jeeva@gmail.com",
+      "phone": "7894561231",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "manoj",
+      "email": "manoj@gmail.com",
+      "phone": "7894561025",
+      "active": true
+    }
+  ]
+}
